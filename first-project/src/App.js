@@ -17,20 +17,6 @@ function App() {
         src='https://cdn.pixabay.com/photo/2016/02/26/16/32/bulldog-1224267_960_720.jpg'
         alt='dog2'
       />
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
     </div>
   )
 }
