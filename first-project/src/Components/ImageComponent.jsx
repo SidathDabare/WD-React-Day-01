@@ -1,5 +1,5 @@
-import React from 'react'
-class ImageComponent extends React.Component {
+import { Component } from 'react'
+class ImageComponent extends Component {
 
     render() {
         return (<img className='image' src={this.props.src} alt={this.props.alt} />);
